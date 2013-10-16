@@ -17,6 +17,6 @@ Future Releases:
 
 Contributors:
 Kolbe B.
-Nathen H.
+Nathan H.
 Jeffrey D.
 Hobson
